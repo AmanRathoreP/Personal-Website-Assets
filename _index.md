@@ -8,11 +8,6 @@ menu:
             icon: user
 readingTime: false
 date: ""
-links:
-  - title: GitHub
-    description: GitHub is the world's largest software development platform.
-    website: https://github.com/AmanRathoreP
-    image: assets/icons/platforms/github-mark-white.svg
 ---
 
 Labore proident fugiat tempor exercitation ullamco et in occaecat aliqua do incididunt. Exercitation laboris commodo incididunt exercitation ad occaecat do id irure consequat ea ex sint. Excepteur ex sunt reprehenderit in ut eiusmod exercitation tempor fugiat et tempor anim. Enim eu aliqua non in nisi sint consequat exercitation culpa labore in do ex. Amet do culpa do aliquip minim minim commodo.
