@@ -1,9 +1,6 @@
 # Normalize line endings for Markdown content
 *.md text eol=lf
 
-# SVGs should be treated as text to track diffs more easily
-*.svg text eol=lf
-
 # Binary images
 *.jpg binary
 *.jpeg binary
@@ -11,6 +8,7 @@
 *.gif binary
 *.webp binary
 *.ico binary
+*.svg binary
 
 # Fonts (if any)
 *.woff binary
