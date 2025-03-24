@@ -1,6 +1,5 @@
 ---
 title: "Explore"
-date: "2019-05-28"
 layout: "explore"
 slug: "explore"
 menu:
