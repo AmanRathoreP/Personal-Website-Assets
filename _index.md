@@ -23,7 +23,7 @@ links:
     description: You can know more about my collage here.
     website: https://www.iisermohali.ac.in/
     image: IISER-Mohali_Logo.svg
-    image_dark: IISER-Mohali_Logo.svg
+    image_dark: IISER-Mohali_Logo-light.svg
   - title: St. Paul's School
     description: Click here to know more about my school.
     website: https://saintpaulskota.co.in/

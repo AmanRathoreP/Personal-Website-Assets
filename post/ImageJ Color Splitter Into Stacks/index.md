@@ -43,14 +43,14 @@ The plugin provides an interactive dialog to choose the desired color space and 
 ### Via the ImageJ Official Website
 
 1. **Download:** Navigate to the ImageJ website and download the latest version of the plugin file (`Color_Splitter_Into_Stacks.class`).
-2. **Install:** Open ImageJ, then go to **Plugins > Install**.
+2. **Install:** Open ImageJ and navigate to **Plugins > Install** or press <kbd>CTRL</kbd> + <kbd>SHIFT</kbd> + <kbd>M</kbd>.
 3. **Select Plugin:** Browse to and select the downloaded `Color_Splitter_Into_Stacks.class` file.
 4. **Restart (if necessary):** Some installations might require a restart of ImageJ.
 
 ### Via Custom Download
 
 1. **Download:** Visit the [release section](https://github.com/AmanRathoreP/ImageJ-Color-Splitter-Into-Stacks/releases) of the project repository and download the latest `Color_Splitter_Into_Stacks.class` file.
-2. **Install:** Open ImageJ and navigate to **Plugins > Install**.
+2. **Install:** Open ImageJ and navigate to **Plugins > Install** or press <kbd>CTRL</kbd> + <kbd>SHIFT</kbd> + <kbd>M</kbd>.
 3. **Select Plugin:** Choose the downloaded class file.
 4. **Restart (if necessary):** Restart ImageJ if the plugin does not load immediately.
 
