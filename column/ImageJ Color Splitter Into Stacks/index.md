@@ -5,9 +5,10 @@ description = "An easy-to-use plugin for ImageJ and Fiji that splits an RGB imag
 tags = [
     "documentation",
     "software",
+    "biology",
 ]
 categories = [
-    "Open Source dev",
+    "foss",
 ]
 image = "thumbnail.jpg"
 [[links]]
