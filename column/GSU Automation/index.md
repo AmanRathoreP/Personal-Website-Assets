@@ -9,7 +9,7 @@ tags:
   - lab
 categories:
   - inst
-image: gsu.png
+image: gsu.jpg
 ---
 
 ## Objective
