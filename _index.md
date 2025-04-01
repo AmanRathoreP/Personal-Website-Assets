@@ -9,6 +9,11 @@ menu:
 readingTime: false
 date: ""
 links:
+  - title: Explore
+    description: See more about my work.
+    website: /explore
+    image: explore-complex-black.svg
+    image_dark: explore-complex-white.svg
   - title: LinkedIn
     description: Wanna know more about my work experiences and skills.
     website: https://www.linkedin.com/in/amanrathorep
