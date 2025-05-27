@@ -25,7 +25,7 @@ links:
     image: github-mark.svg
     image_dark: github-mark-white.svg
   - title: IISER Mohali
-    description: You can know more about my collage here.
+    description: You can know more about my college here.
     website: https://www.iisermohali.ac.in/
     image: IISER-Mohali_Logo.svg
     image_dark: IISER-Mohali_Logo-light.svg
@@ -41,6 +41,6 @@ links:
     image_dark: Instagram_logo_2016.svg
 ---
 
-I'm a First-year([MS24058](mailto:ms24058@iisermohali.ac.in)) BS-MS student at IISER Mohali. Before collage I studied in [Saint Paul's Kota](https://saintpaulskota.co.in/) since LKG(2010). I really love animals especially furry animals. I'm interested in biology, maths, physics, electronics, robotics, computers. I have a good grasp of mathematics, physics, and computer science, and I love biology more than anything. I really love programming and anything that uses computers.
+I'm a First-year([MS24058](mailto:ms24058@iisermohali.ac.in)) BS-MS student at IISER Mohali. Before college I studied in [Saint Paul's Kota](https://saintpaulskota.co.in/) since LKG(2010). I really love animals especially furry animals. I'm interested in biology, maths, physics, electronics, robotics, computers. I have a good grasp of mathematics, physics, and computer science, and I love biology more than anything. I really love programming and anything that uses computers.
 
 Go to [Explore](explore) to know more about any specific experience, project, etc. Or you can also search about the thing you are looking for in [Search tab](search).
