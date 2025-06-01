@@ -10,6 +10,7 @@ tags:
 categories:
   - inst
 image: gsu.jpg
+draft: true # I don't have right to show this as it produced no outcome
 ---
 
 ## Objective
