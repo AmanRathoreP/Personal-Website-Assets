@@ -1,5 +1,5 @@
 +++
-title = "International Computer Science Competition (ICSC) 2025"
+title = "International Computer Science Competition (ICSC), 2025"
 date = "2025-11-25"
 description = "Won silver honor in the Senior Category of ICSC 2025."
 tags = [
